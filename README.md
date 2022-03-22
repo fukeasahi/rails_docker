@@ -1,5 +1,3 @@
-# rails_docker
-
 ## git clone git@github.com:fukeasahi/rails_docker.git
 
 ## cd rails_docker
