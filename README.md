@@ -1,7 +1,15 @@
-## git clone git@github.com:fukeasahi/rails_docker.git
+```
+git clone git@github.com:fukeasahi/rails_docker.git
+```
 
-## cd rails_docker
+```
+cd rails_docker
+```
 
-## ./rails_new.sh
+```
+./rails_new.sh
+```
 
-## localhost:3000
+```
+localhost:3000
+```
