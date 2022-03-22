@@ -1,3 +1,5 @@
+Docker、Gitをインストール
+
 ```
 git clone git@github.com:fukeasahi/rails_docker.git
 ```
